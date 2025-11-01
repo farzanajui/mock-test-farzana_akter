@@ -2,3 +2,8 @@ SECTION 1
 My prompt: Generate pseudocode for CLI Quiz Generator using Weeks 2/6/7/10.
 AI response: Produced list-based pseudocode with file I/O and random selection.
 Course constraint applied: Week 10 – Algorithm Planning.
+
+SECTION 3
+My prompt: Review Week-8 feedback analyzer; propose fixes within course scope.
+AI response: Confirmed need for consistent returns, numeric coercion, and basic validation.
+Course constraint applied: Week 8 – Validation & error handling.
